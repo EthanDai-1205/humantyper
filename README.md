@@ -186,9 +186,9 @@ author will not help with that. You are responsible for what you type with it.
 
 ## Credits
 
-Built by Yancheng "Ethan" Dai. Every behavioural parameter in the timing model
-traces to published research, cited in full in
-[docs/research.md](docs/research.md).
+HumanTyper is built and maintained by an independent developer. Every
+behavioural parameter in the timing model traces to published research, cited
+in full in [docs/research.md](docs/research.md).
 
 Not affiliated with Apple Inc.
 

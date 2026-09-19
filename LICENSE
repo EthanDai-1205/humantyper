@@ -1,0 +1,57 @@
+# HumanTyper: proprietary notice
+
+Copyright (c) 2026 Yancheng "Ethan" Dai. All rights reserved.
+
+This repository is a **product and design showcase**. It does not contain the
+application source code, and no source code licence is granted by it. The
+absence of a permissive licence here is deliberate: nothing in this repository
+is open source, and nothing in it may be reused except as set out below.
+
+## What you may do
+
+- **Read** this repository, and view the screenshots, diagrams and documents it
+  contains.
+- **Link** to it, and quote short excerpts with clear attribution, for
+  commentary, review, teaching or research.
+
+## What you may not do
+
+- **Copy, republish, mirror, redistribute, sublicense or sell** any part of this
+  repository, in whole or in part, including the screenshots and the written
+  documents.
+- **Use it to build a derivative or competing product,** or to train, fine-tune,
+  evaluate or benchmark a model or product intended to imitate, replace or
+  detect this one, without written permission.
+- **Use the HumanTyper name, logo, icon or visual identity,** or imply
+  endorsement, affiliation or sponsorship.
+- **Present this product, its design or its documents as your own work.**
+
+## The application, and third party material
+
+- The HumanTyper application itself is governed by the Terms of Sale & Use at
+  <https://thehumantyper.com/terms>. A purchase grants a personal,
+  non-exclusive, non-transferable licence to run the built application on one
+  device. The application is licensed, never sold, and no ownership of the
+  software or its source passes to a buyer.
+- Screenshots in `media/` show the HumanTyper interface and are covered by this
+  notice.
+- Third party names, papers and trademarks referenced in `docs/research.md`
+  remain the property of their respective owners and are cited, not licensed,
+  here. Apple and macOS are trademarks of Apple Inc. This project is not
+  affiliated with Apple Inc.
+
+## No warranty
+
+The material in this repository is provided "as is", without warranty of any
+kind, express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and non-infringement. In no
+event shall the author be liable for any claim, damages or other liability
+arising from, out of, or in connection with this repository or its contents.
+
+## A note on the wording
+
+This is a plain language notice, not legal advice, and it is not a substitute
+for a lawyer's review if you need terms that will hold up in a dispute. If you
+want the same practical effect in established wording, the closest off-the-shelf
+options are PolyForm Strict 1.0.0 for software and CC BY-NC-ND 4.0 for writing
+and images. Commercial licensing enquiries: support@thehumantyper.com.

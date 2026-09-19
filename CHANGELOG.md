@@ -61,5 +61,5 @@ items are marked. Updates within a major version are free.
 - **Error taxonomy:** substitutions, omissions, transpositions and
   double-strikes, with immediate, delayed and never-noticed corrections.
 - **Curved mouse glides** with Fitts-law timing and endpoint scatter.
-- **Safe Input auto-pause** on password fields, and the stop-on-app-switch
+- **Secure Input auto-pause** on password fields, and the stop-on-app-switch
   guard.

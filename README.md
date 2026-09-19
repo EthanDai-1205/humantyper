@@ -45,40 +45,12 @@ Rendered offscreen from the real `ContentView` and `MenuPanelView` by the
 project's own render harness, at 2x, in light and dark. Nothing here is a
 mockup or a design file: these are the shipping views.
 
-<table>
-  <tr>
-    <td width="50%"><img src="media/window-ready-default-light.png" alt="Idle state: editor, delivery presets, speed and typo sliders, realism and safety toggles"></td>
-    <td width="50%"><img src="media/window-typing-default-dark.png" alt="Live run: phase capsule, progress strip, Pause and Stop transport"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Ready: editor, presets, settings. Nothing overlaps the text.</sub></td>
-    <td align="center"><sub>Typing: phase capsule, progress, transport bar.</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="media/window-userPaused-default-light.png" alt="Paused run: the progress strip turns orange and Resume becomes the prominent action"></td>
-    <td width="50%"><img src="media/window-securePaused-default-dark.png" alt="Auto-paused on Secure Input: prominent Stop, with the reason in the status line"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Paused by the user: the strip turns orange, Resume is the prominent action.</sub></td>
-    <td align="center"><sub>Auto-paused on a Secure Input field, with the reason shown.</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="media/window-typing-wide-dark.png" alt="Wide window layout, no clipping or stretching"></td>
-    <td width="50%"><img src="media/window-done-min-light.png" alt="Finished run at the minimum window size, with a compact summary line"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Wide layout: the same views, no clipping.</sub></td>
-    <td align="center"><sub>Minimum window size, finished run, compact summary.</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="media/panel-typing-light.png" alt="Menu bar mission control during a run"></td>
-    <td width="50%"><img src="media/panel-userPaused-dark.png" alt="Menu bar panel while paused"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Menu bar mission control, mid-run.</sub></td>
-    <td align="center"><sub>The same panel while paused.</sub></td>
-  </tr>
-</table>
+|  |  |
+|:---:|:---:|
+| <img width="380" src="media/window-ready-default-light.png" alt="Idle state: editor, delivery presets, speed and typo sliders, realism and safety toggles"><br><sub>Ready: the editor, presets and settings. Nothing overlaps the text.</sub> | <img width="380" src="media/window-typing-default-dark.png" alt="Live run: phase capsule, progress strip, Pause and Stop transport"><br><sub>Typing: phase capsule, progress strip, transport bar.</sub> |
+| <img width="380" src="media/window-userPaused-default-light.png" alt="Paused run: the progress strip turns orange and Resume becomes the prominent action"><br><sub>Paused by the user: the strip turns orange, and Resume is the prominent action.</sub> | <img width="380" src="media/window-securePaused-default-dark.png" alt="Auto-paused on Secure Input: prominent Stop, with the reason in the status line"><br><sub>Auto-paused on a password field, with the reason shown.</sub> |
+| <img width="380" src="media/window-typing-wide-dark.png" alt="Wide window layout, no clipping or stretching"><br><sub>Wide layout: the same views, no clipping.</sub> | <img width="380" src="media/window-done-min-light.png" alt="Finished run at the minimum window size, with a compact summary line"><br><sub>Minimum window size, finished run, compact summary.</sub> |
+| <img width="340" src="media/panel-typing-light.png" alt="Menu bar mission control during a run"><br><sub>Menu bar mission control, mid-run.</sub> | <img width="340" src="media/panel-userPaused-dark.png" alt="Menu bar panel while paused"><br><sub>The same panel while paused.</sub> |
 
 ## What it does
 
